@@ -1,4 +1,4 @@
-// DESAFIO 01 - GERENCIAMENTO DE CLIENTES
+// DESAFIO 02 - GERENCIAMENTO DE CLIENTES
 
 type Cliente = {
     "nome":string,
